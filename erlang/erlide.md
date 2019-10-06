@@ -87,3 +87,4 @@ Click Restart Now
 
 ###### References
 https://erlide.org/articles/eclipse/140_Tutorial-Quick-Start.html
+https://github.com/erlang/erlide_eclipse/issues
